@@ -80,7 +80,7 @@ export default async function HomePage() {
             </div>
             <div className="hero-badges">
               <div className="hero-badge">
-                <div className="num">03</div>
+                <div className="num">02</div>
                 <div className="label">Cursos técnicos integrados</div>
               </div>
               <div className="hero-badge">
