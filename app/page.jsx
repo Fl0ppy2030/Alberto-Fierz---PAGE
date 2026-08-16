@@ -49,7 +49,7 @@ export default async function HomePage() {
               <path d="M20 3L36 34H4L20 3Z" stroke="#F2C14E" strokeWidth="2.5" strokeLinejoin="round" />
               <circle cx="20" cy="24" r="2.4" fill="#3E8E7E" />
             </svg>
-            ETI VÉRTICE
+            ALBERTO FIERZ
           </a>
           <ul className="navlinks">
             <li><a href="#avisos">Avisos</a></li>
@@ -67,7 +67,7 @@ export default async function HomePage() {
         <section className="hero">
           <div className="wrap hero-grid">
             <div>
-              <span className="eyebrow">ETI-VÉRTICE · ANO LETIVO 2026</span>
+              <span className="eyebrow">ALBERTO FIERZ · ANO LETIVO 2026</span>
               <h1>Ensino médio<br />e técnico, <span>construído</span><br />junto com você.</h1>
               <p className="hero-sub">
                 Site mantido por alunos e pela equipe pedagógica: avisos, cursos técnicos, projetos
@@ -129,19 +129,19 @@ export default async function HomePage() {
             <div className="sobre-grid">
               <div className="sobre-text">
                 <p>
-                  A ETI Vértice é uma escola pública de Ensino Médio Técnico Integrado, onde os alunos
+                  A ALBERTO FIERZ é uma escola estadual de Ensino Médio Técnico Integrado, onde os alunos
                   concluem o ensino médio já formados em uma área técnica — sem custo extra e na mesma
-                  carga horária regular.
+                  carga horária integral.
                 </p>
                 <p>
-                  Além das disciplinas tradicionais, a escola oferece laboratórios de prática, projetos
+                  Além das disciplinas tradicionais, a escola oferece projetos
                   de pesquisa orientados por professores e parcerias com empresas da região para estágio
                   e visitas técnicas.
                 </p>
                 <div className="stat-row">
-                  <div className="stat"><div className="n">1998</div><div className="l">Fundação</div></div>
-                  <div className="stat"><div className="n">780</div><div className="l">Alunos matriculados</div></div>
-                  <div className="stat"><div className="n">03</div><div className="l">Cursos técnicos</div></div>
+                  <div className="stat"><div className="n">XXXX</div><div className="l">Fundação</div></div>
+                  <div className="stat"><div className="n">XXX</div><div className="l">Alunos matriculados</div></div>
+                  <div className="stat"><div className="n">02</div><div className="l">Cursos técnicos</div></div>
                 </div>
               </div>
 
@@ -151,23 +151,14 @@ export default async function HomePage() {
                     <svg className="course-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6"><rect x="3" y="4" width="18" height="13" rx="1.2" /><path d="M8 21h8M12 17v4" /></svg>
                     <span className="course-code">TEC-01</span>
                   </div>
-                  <h3>Técnico em Informática</h3>
-                  <p>Lógica de programação, desenvolvimento web, banco de dados e infraestrutura de redes.</p>
+                  <h3>Técnico em Ciências de Dados</h3>
+                  <p>Análise de dados, machine learning, programação e estatística.</p>
                   <div className="course-dur">3 anos · integrado ao Ensino Médio</div>
                 </div>
                 <div className="course-card">
                   <div className="course-top">
                     <svg className="course-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6"><path d="M13 2 4 14h6l-1 8 9-12h-6l1-8Z" strokeLinejoin="round" /></svg>
                     <span className="course-code">TEC-02</span>
-                  </div>
-                  <h3>Técnico em Eletrônica</h3>
-                  <p>Circuitos analógicos e digitais, automação, microcontroladores e manutenção de equipamentos.</p>
-                  <div className="course-dur">3 anos · integrado ao Ensino Médio</div>
-                </div>
-                <div className="course-card">
-                  <div className="course-top">
-                    <svg className="course-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6"><path d="M3 21V9l9-6 9 6v12" /><path d="M9 21v-6h6v6" /></svg>
-                    <span className="course-code">TEC-03</span>
                   </div>
                   <h3>Técnico em Administração</h3>
                   <p>Gestão financeira, empreendedorismo, marketing e rotinas administrativas de empresas.</p>
@@ -276,20 +267,20 @@ export default async function HomePage() {
               <div className="loc-card">
                 <div className="loc-item">
                   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12Z" /><circle cx="12" cy="10" r="2.4" /></svg>
-                  <div><h4>Endereço</h4><p>Rua das Palmeiras, 450 — Vila Progresso<br />São Paulo — SP, 04567-000</p></div>
+                  <div><h4>Endereço</h4><p> Rua Ponciano Tonussi, 87 — Parque Dona Esther<br />Cosmópolis — SP, 13150-000</p></div>
                 </div>
                 <div className="loc-item">
                   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7"><circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 3" /></svg>
-                  <div><h4>Horário de funcionamento</h4><p>Segunda a sexta, 7h às 22h30<br />Secretaria: 8h às 17h</p></div>
+                  <div><h4>Horário de funcionamento</h4><p>Segunda a sexta, 7h às 16h<br />Secretaria: 7h às 15h</p></div>
                 </div>
                 <div className="loc-item">
                   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.1-8.7A2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.3 1.8.6 2.7a2 2 0 0 1-.4 2.1L8 9.9a16 16 0 0 0 6 6l1.4-1.4a2 2 0 0 1 2.1-.4c.9.3 1.8.5 2.7.6a2 2 0 0 1 1.8 2Z" /></svg>
-                  <div><h4>Contato</h4><p>(11) 4002-8922<br />contato@etivertice.edu.br</p></div>
+                  <div><h4>Contato</h4><p>(19) 3872-1667<br />e917761a@educacao.sp.gov.br</p></div>
                 </div>
               </div>
               <div className="map-frame">
                 <iframe
-                  src="https://www.google.com/maps?q=Avenida+Paulista,+S%C3%A3o+Paulo&output=embed"
+                  src="https://www.google.com/maps?q=Rua+Ponciano+Tonussi,+87,+Cosmópolis&output=embed"
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
                   title="Mapa de localização da escola"
@@ -304,7 +295,7 @@ export default async function HomePage() {
         <div className="wrap">
           <div className="foot-grid">
             <div>
-              <div className="foot-logo">ETI VÉRTICE</div>
+              <div className="foot-logo">ALBERTO FIERZ</div>
               <p style={{ fontSize: "0.88rem", maxWidth: "32ch" }}>
                 Escola pública de Ensino Médio Técnico Integrado. Site mantido pela comunidade escolar.
               </p>
@@ -322,14 +313,14 @@ export default async function HomePage() {
             <div>
               <h5>Contato</h5>
               <ul>
-                <li>contato@etivertice.edu.br</li>
-                <li>(11) 4002-8922</li>
-                <li>Rua das Palmeiras, 450 — SP</li>
+                <li>e917761a@educacao.sp.gov.br</li>
+                <li>(19) 3872-1667</li>
+                <li>Rua Ponciano Tonussi, 87 — SP</li>
               </ul>
             </div>
           </div>
           <div className="foot-bottom">
-            <span>© 2026 ETI Vértice — todos os direitos reservados</span>
+            <span>© 2026 ALBERTO FIERZ — todos os direitos reservados</span>
             <span><a href="/admin/login">Acesso restrito</a></span>
           </div>
         </div>
