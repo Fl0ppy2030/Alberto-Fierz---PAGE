@@ -13,7 +13,7 @@ export default async function DashboardLayout({ children }) {
       <aside className="admin-sidebar">
         <div>
           <div className="admin-brand">
-            ETI VÉRTICE
+            ALBERTO FIERZ
             <span>PAINEL ADMIN</span>
           </div>
           <nav className="admin-nav">
