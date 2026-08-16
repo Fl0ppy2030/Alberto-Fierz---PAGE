@@ -1,9 +1,9 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "ETI Vértice — Escola Técnica Integrada",
+  title: "ALBERTO FIERZ — Escola Técnica Integrada",
   description:
-    "ETI Vértice: Ensino Médio Técnico Integrado. Avisos, cursos, projetos, jornal semanal e localização.",
+    "ALBERTO FIERZ: Ensino Médio Técnico Integrado. Avisos, cursos, projetos, jornal semanal e localização.",
 };
 
 export default function RootLayout({ children }) {
