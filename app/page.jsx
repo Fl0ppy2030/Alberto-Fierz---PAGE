@@ -321,7 +321,7 @@ export default async function HomePage() {
           </div>
           <div className="foot-bottom">
             <span>© 2026 ALBERTO FIERZ — todos os direitos reservados</span>
-            <span><a href="https://fl0ppy.vercel.app/">By FL0ppy</a></span>
+            <span><a href="https://fl0ppy.vercel.app/">By fl0ppy</a></span>
           </div>
         </div>
       </footer>
