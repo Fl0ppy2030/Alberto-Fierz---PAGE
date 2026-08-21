@@ -37,7 +37,7 @@ export default function LoginPage() {
     <div className="login-shell">
       <div className="login-card">
         <h1>Painel administrativo</h1>
-        <p className="sub">ETI Vértice · acesso restrito à coordenação e professores</p>
+        <p className="sub">Alberto Fierz · acesso restrito à coordenação e professores</p>
 
         {erro && <div className="alert-box alert-error">{erro}</div>}
 
