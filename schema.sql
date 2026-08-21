@@ -1,5 +1,5 @@
 -- ============================================================
--- ETI VÉRTICE — Schema do banco de dados
+-- Schema do banco de dados
 -- Rode este arquivo inteiro em: Supabase > SQL Editor > New query
 -- ============================================================
 
