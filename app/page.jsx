@@ -139,8 +139,8 @@ export default async function HomePage() {
                   e visitas técnicas.
                 </p>
                 <div className="stat-row">
-                  <div className="stat"><div className="n">XXXX</div><div className="l">Fundação</div></div>
-                  <div className="stat"><div className="n">XXX</div><div className="l">Alunos matriculados</div></div>
+                  <div className="stat"><div className="n">1992</div><div className="l">Fundação</div></div>
+                  <div className="stat"><div className="n">261</div><div className="l">Alunos matriculados</div></div>
                   <div className="stat"><div className="n">02</div><div className="l">Cursos técnicos</div></div>
                 </div>
               </div>
